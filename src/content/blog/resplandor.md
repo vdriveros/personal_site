@@ -2,7 +2,7 @@
 title: "Resplandor E-Commerce Theme"
 description: "A sophisticated WordPress theme integrated with WooCommerce for creating professional e-commerce stores with modern design and full shopping functionality."
 pubDate: "April 24 2026"
-heroImage: "/post_img.webp"
+heroImage: "/resplandor.webp"
 badge: "WordPress + WooCommerce"
 ---
 

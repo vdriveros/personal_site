@@ -2,7 +2,7 @@
 title: "Contractor Portal - Full Stack Application"
 description: "A complete full-stack application designed to help contractors and teams track work progress in real-time."
 pubDate: "April 24 2026"
-heroImage: "/post_img.webp"
+heroImage: "/contractor.webp"
 badge: "FastAPI + React"
 ---
 

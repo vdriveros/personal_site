@@ -2,7 +2,7 @@
 title: "WhatsApp AI Chatbot with Google Sheets Integration"
 description: "An intelligent WhatsApp chatbot powered by OpenAI that provides automated customer support and appointment booking with automatic data logging to Google Sheets."
 pubDate: "April 24 2026"
-heroImage: "/post_img.webp"
+heroImage: "/wp.webp"
 badge: "Express + WhatsApp API"
 ---
 **Repository:** [WhatsApp AI Chatbot with Google Sheets Integration](https://github.com/vdriveros/whatsapp_bot)

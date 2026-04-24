@@ -2,7 +2,7 @@
 title: "Courses Management API"
 description: "A comprehensive RESTful API built with Laravel for managing online courses, student enrollments, and course content."
 pubDate: "April 24 2026"
-heroImage: "/post_img.webp"
+heroImage: "/courses.webp"
 badge: "Laravel"
 ---
 

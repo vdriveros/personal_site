@@ -2,7 +2,7 @@
 title: "Universidad Internacional Theme"
 description: "A custom WordPress theme developed for an international university with a modern, responsive design using Tailwind CSS."
 pubDate: "April 24 2026"
-heroImage: "/post_img.webp"
+heroImage: "/uinter.webp"
 badge: "WordPress + Tailwind CSS"
 ---
 **Repository:** [Universidad Internacional](https://github.com/vdriveros/uni_inter)
