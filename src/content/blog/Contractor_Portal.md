@@ -8,7 +8,15 @@ badge: "FastAPI + React"
 
 **Repository:** [Contractor Portal Frontend](https://github.com/vdriveros/contractor-portal-frontend) & [Contractor Portal API](https://github.com/vdriveros/contractor-portal-api)
 
-**Live Demo:** [Contractor Portal](https://contractor-portal.vdriveros.dev)
+**Live Demo:** [Contractor Portal App](https://app.vdriveros.dev) | [API Docs](https://api.vdriveros.dev/docs/)
+
+**Admin Credentials:**
+- Username: Admin
+- Password: Contractor123
+
+**Client Credentials:**
+- Username: client@client.com
+- Password: 123456789
 
 A complete full-stack application designed to help contractors and teams track work progress in real-time.
 

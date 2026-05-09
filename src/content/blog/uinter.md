@@ -7,7 +7,7 @@ badge: "WordPress + Tailwind CSS"
 ---
 **Repository:** [Universidad Internacional](https://github.com/vdriveros/uni_inter)
 
-**Live Demo:** [Universidad Internacional](https://inter.vdriveros.dev/)
+**Live Site:** [Universidad Internacional](https://asociacionui.com/)
 
 A custom WordPress theme developed for an international university with a modern, responsive design using Tailwind CSS.
 

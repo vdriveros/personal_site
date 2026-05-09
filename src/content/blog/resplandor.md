@@ -8,7 +8,7 @@ badge: "WordPress + WooCommerce"
 
 **Repository:** [Resplandor E-Commerce Theme](https://github.com/vdriveros/resplandor_theme)
 
-**Live Demo:** [Resplandor E-Commerce Theme](https://resplandor.vdriveros.dev/)
+**Live Site:** [Resplandor E-Commerce](https://resplandor.com.py/)
 
 A sophisticated WordPress theme integrated with WooCommerce for creating professional e-commerce stores with modern design and full shopping functionality.
 

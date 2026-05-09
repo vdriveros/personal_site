@@ -8,7 +8,7 @@ badge: "Laravel + Livewire"
 
 **Repository:** [Medical Appointments System](https://github.com/vdriveros/tea-py)
 
-**Live Demo:** [Medical Appointments System](https://teapy.vdriveros.dev/)
+<!-- **Live Demo:** [Medical Appointments System](https://teapy.vdriveros.dev/) -->
 
 A Laravel-based medical appointment management system designed for healthcare providers to manage patient appointments and medical records efficiently.
 
